@@ -34,7 +34,7 @@ Models/models--sshleifer--distilbart-cnn-12-6/snapshots/a4f8f3ea906ed274767e9906
 
 ## Prompt
 ```bash
-Could you please write a python script that would take a you tube url as input and give the transcript of that video as output
+Write Python code that inputs a YouTube URL and outputs the video's transcript using youtube_transcript_api.
 ```
 ```bash
 @GPT-4o Write a Python code that would take a youtube URL as input and give the video transcript as output. also include gradio UI and use hugging face model "sshleifer/distilbart-cnn-12-6"
